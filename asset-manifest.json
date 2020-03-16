@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gir-robo/static/css/main.6881b41a.chunk.css",
+    "main.js": "/gir-robo/static/js/main.2bd717f0.chunk.js",
+    "main.js.map": "/gir-robo/static/js/main.2bd717f0.chunk.js.map",
+    "runtime-main.js": "/gir-robo/static/js/runtime-main.942b30fd.js",
+    "runtime-main.js.map": "/gir-robo/static/js/runtime-main.942b30fd.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/gir-robo/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.58272216.chunk.js": "/gir-robo/static/js/2.58272216.chunk.js",
+    "static/js/2.58272216.chunk.js.map": "/gir-robo/static/js/2.58272216.chunk.js.map",
+    "index.html": "/gir-robo/index.html",
+    "precache-manifest.a7fa6fddc6bfca468ea7976720654a22.js": "/gir-robo/precache-manifest.a7fa6fddc6bfca468ea7976720654a22.js",
+    "service-worker.js": "/gir-robo/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/gir-robo/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.6881b41a.chunk.css.map": "/gir-robo/static/css/main.6881b41a.chunk.css.map",
+    "static/js/2.58272216.chunk.js.LICENSE.txt": "/gir-robo/static/js/2.58272216.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.942b30fd.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.58272216.chunk.js",
+    "static/css/main.6881b41a.chunk.css",
+    "static/js/main.2bd717f0.chunk.js"
+  ]
+}
